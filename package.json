@@ -16,5 +16,14 @@
     "url": "https://github.com/monserrathvalenz/WebProject/issues"
   },
   "homepage": "https://github.com/monserrathvalenz/WebProject#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "mssql": "^11.0.1",
+    "nodemon": "^3.1.9"
+  }
 }
